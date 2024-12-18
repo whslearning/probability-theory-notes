@@ -1,6 +1,8 @@
 # Markov's inequality
 https://www.youtube.com/watch?v=vjYanZ1nsZg
 
+For $a \gt 0$,
+
 $`Y =
   \begin{cases}
     0 & \quad \text{if } X \lt a\\
