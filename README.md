@@ -16,3 +16,7 @@ $`I =
     0 & \quad \text{otherwise}
   \end{cases}
 `$
+
+then
+
+$I \leq \frac{X}{a}$
