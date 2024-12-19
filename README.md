@@ -1,7 +1,7 @@
 # Markov's inequality
 https://www.youtube.com/watch?v=vjYanZ1nsZg
 
-For $a \gt 0$,
+If $X \geq 0$ and $a \gt 0$,
 
 $`Y =
   \begin{cases}
