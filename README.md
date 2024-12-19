@@ -21,6 +21,8 @@ then
 
 $I \leq \frac{X}{a}$
 # Exponential random variable
+https://www.youtube.com/watch?v=FOFtMqCxZt0
+
 For $\lambda \gt 0$,
 
 $`f(x) =
