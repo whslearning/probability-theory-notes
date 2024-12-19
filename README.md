@@ -20,6 +20,8 @@ $`I =
 then
 
 $I \leq \frac{X}{a}$
+# Chebyshev's inequality
+https://www.youtube.com/watch?v=d5pnfFvggYk
 # Exponential random variable
 https://www.youtube.com/watch?v=FOFtMqCxZt0
 
