@@ -20,3 +20,12 @@ $`I =
 then
 
 $I \leq \frac{X}{a}$
+# Exponential random variable
+For $\lambda \gt 0$,
+
+$`f(x) =
+  \begin{cases}
+    \lambda e^{-\lambda x} & \quad \text{if } x \geq 0\\
+    0 & \quad \text{if } x \lt 0
+  \end{cases}
+`$
