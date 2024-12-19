@@ -22,6 +22,8 @@ then
 $I \leq \frac{X}{a}$
 # Chebyshev's inequality
 https://www.youtube.com/watch?v=d5pnfFvggYk
+
+Do not need $X \geq 0$
 # Exponential random variable
 https://www.youtube.com/watch?v=FOFtMqCxZt0
 
