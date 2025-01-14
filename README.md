@@ -43,3 +43,12 @@ $E[X] = \int_0^\infty x \cdot \lambda e^{-\lambda x} dx = \frac{1}\lambda$
 $E[X^2] = \int_0^\infty x^2 \cdot \lambda e^{-\lambda x} dx = \frac{2}{\lambda^2}$
 
 $\mathrm{Var}(X) = E[X^2] -(E[X])^2 = \frac{1}{\lambda^2}$
+# Expectation
+$E[X] = \sum_{i=1}^{n} x_i p_i$
+
+$E[X] = \sum_{x: p(x) > 0} x p(x)$
+
+$E[aX + b] = \sum_{x: p(x) > 0} (ax + b)p(x) = aE[X] + b$
+
+# Variance
+$\mathrm{Var}(aX + b) = E[(aX + b - a\mu - b)^2] = a^2\mathrm{Var}(X)$
