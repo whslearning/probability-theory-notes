@@ -52,3 +52,7 @@ $E[aX + b] = \sum_{x: p(x) > 0} (ax + b)p(x) = aE[X] + b$
 $\mathrm{Var}(X) = E[(X - \mu)^2]$
 
 $\mathrm{Var}(aX + b) = E[(aX + b - a\mu - b)^2] = a^2\mathrm{Var}(X)$
+# Bernoulli
+https://www.youtube.com/watch?v=J8L9kRGSvSY
+# Geometric
+https://www.youtube.com/watch?v=whbKmwMmB4s
