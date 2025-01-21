@@ -57,3 +57,6 @@ https://www.youtube.com/watch?v=J8L9kRGSvSY
 # Geometric
 https://www.youtube.com/watch?v=whbKmwMmB4s
 # Markov chain
+https://www.youtube.com/watch?v=hsQnmrHbbms
+* State
+* Transition probabilities
