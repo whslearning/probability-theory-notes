@@ -56,3 +56,4 @@ $\mathrm{Var}(aX + b) = E[(aX + b - a\mu - b)^2] = a^2\mathrm{Var}(X)$
 https://www.youtube.com/watch?v=J8L9kRGSvSY
 # Geometric
 https://www.youtube.com/watch?v=whbKmwMmB4s
+# Markov chain
