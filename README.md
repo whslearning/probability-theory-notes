@@ -60,3 +60,4 @@ https://www.youtube.com/watch?v=whbKmwMmB4s
 https://www.youtube.com/watch?v=hsQnmrHbbms
 * State
 * Transition probabilities
+* Markov property
