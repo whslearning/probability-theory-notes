@@ -64,3 +64,9 @@ https://www.youtube.com/watch?v=hsQnmrHbbms
 # Discrete uniform law
 * https://www.youtube.com/watch?v=AsSQdpZdP8U
 * Why counting is important
+# Probability calculation steps
+* https://www.youtube.com/watch?v=NbYB0fiHoCs
+* Specify the sample space
+* Specify the probability law
+* Identify an event of interest
+* Calculate
