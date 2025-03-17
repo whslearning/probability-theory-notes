@@ -61,3 +61,6 @@ https://www.youtube.com/watch?v=hsQnmrHbbms
 * State
 * Transition probabilities
 * Markov property
+# Discrete uniform law
+* https://www.youtube.com/watch?v=AsSQdpZdP8U
+* Why counting is important
